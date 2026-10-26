@@ -1,0 +1,21 @@
+Total lignes:
+467439 bac_results_2015-2024.csv
+
+Top 5 wilayas:
+  95104 Nouakchott Sud
+  74870 Nouakchott Ouest
+  69002 Nouakchott Nord
+  49755 
+  39790 Trarza
+
+Distribution par annee:
+  50045 2018
+  49993 2017
+  49755 2020
+  47251 2022
+  47217 2024
+  46587 2021
+  45026 2016
+  44861 2023
+  44717 2019
+  41986 2015

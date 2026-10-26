@@ -1,0 +1,21 @@
+services:
+  bash:
+    build:
+      context: .
+    working_dir: /work
+    container_name: sid-bash
+    volumes:
+      - ./:/work
+    tty: true
+    stdin_open: true
+    command: ["bash"]
+
+  pwsh:
+    image: mcr.microsoft.com/powershell:latest
+    working_dir: /work
+    container_name: sid-pwsh
+    volumes:
+      - ./:/work
+    tty: true
+    stdin_open: true
+    command: ["pwsh", "-NoLogo", "-NoProfile"]

@@ -1,0 +1,9 @@
+# TD2 --- Rapport (Linux)
+Date: 2026-10-19T16:39:02+00:00
+-- Moby-Dick
+  Lignes totales: 9644
+  Lignes avec whale(s): 525
+  Chapitres: 188
+-- Alice
+  Lignes totales: 3762
+  Doublons de mots (top 5):
