@@ -1,0 +1,4 @@
+tmp/
+*.csv
+*.log
+.DS_Store
